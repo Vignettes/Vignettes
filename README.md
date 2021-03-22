@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vignettes
 - 👀 I’m interested in Python for Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a terpene profile project to help MM patients identify strains for their needs (so if you're interested please reach out!)
+- 💞️ I’m looking to learn more on ML in relation to Python
 - 📫 How to reach me georgeotweb@gmail.com
 
 <!---
