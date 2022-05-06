@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vignettes
-- 👀 I’m interested in Python for Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to learn more on ML in relation to Python
-- 📫 How to reach me georgeotweb@gmail.com
+- 👋 Hi, I’m George
+- 👀 I’m interested in Python, and Web Development
+- 🌱 I’m currently learning Web Development (HTML, CSS, Javascript)
+- 📫 How to reach me @GeorgeOnTheWeb_ on Twitter
 
 <!---
 Vignettes/Vignettes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
